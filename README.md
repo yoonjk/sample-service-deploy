@@ -1,3 +1,2 @@
 # sample-service-deploy
-Deploy sample-service using argocd
-test
+Deploy sample-service using argocd in tekton
