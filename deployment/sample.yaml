@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: sample
-        image: docker.io/nexweb1/sample:dev
+        image: docker.io/nexweb1/sample:prod
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
