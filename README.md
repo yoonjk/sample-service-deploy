@@ -1,2 +1,2 @@
 # sample-service-deploy
-Deploy sample-service using argocd events v4
+Deploy sample-service using argocd events v5
